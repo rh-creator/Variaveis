@@ -1,0 +1,24 @@
+O que são variáveis?
+
+Definição: Um espaço na memória do computador que armazena valores e utilizada para salvar e recuperar dados.
+Os principais tipos são: string, números e lógicas.
+
+Diferença entre constantes e variavéis
+Variáveis podem ser alteradas, constantes já são predefinidas.
+
+
+
+DEFINIÇÃO EM SALA
+O que são variáveis?
+São como caixinhas onde podemos guardar coisas (valores)
+
+Os principais tipos são
+> String -> São textos ou caracteres
+> Int -> Numeros inteiros
+> Float -> Números fracionados
+> Boleano -> Verdadeiro ou falso
+
+Diferença entre constantes e variavéis
+> Variável -> Posso alterar o conteúdo
+> Constante -> Não sofre alteração em seu conteúdo 
+
